@@ -175,6 +175,7 @@ h3 {
   font-size: 16px;
   padding-right: 0.5em; 
   padding-left: 0.5em;
+  border-left: 3px solid #ff3030;
 }
 
 h4 {
@@ -200,7 +201,7 @@ table {
   padding: 0;
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 1em;
+  font-size: 4em;
   font: inherit;
   border: 0;
 }
@@ -224,7 +225,7 @@ table tr:nth-child(2n) {
 }
 
 table tr th, table tr td {
-  font-size: 1em;
+  font-size: 14px;
   border: 1px solid #CCC;
   margin: 0;
   padding: 0.5em 1em;
